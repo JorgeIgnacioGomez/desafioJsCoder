@@ -1,1 +1,2 @@
-# desafioJsCoder
+Realizé el proyecto Crear un algoritmo a traves de un ciclo.. Decidí de realizarlo a través del ciclo for.
+Mi algoritmo consiste en que: cuando la página se abre, se muestre un alert solicitando que ingreses cualquier numero.. y de ese número, una vez siendo ingresado, como resultado te mostrará el factorial del mismo, es decir, por ejemplo: si el numero es 5, se multiplica primero x1, despues x2, x3, x4, hasta llegar al 5, y la suma de esas multiplicaciones, termina por mostrar el factorial del mismo.
